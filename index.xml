@@ -6,7 +6,18 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rahulguha.github.io/rahul-guha-public/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Sep 2021 19:33:42 -0500</lastBuildDate><atom:link href="https://rahulguha.github.io/rahul-guha-public/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://rahulguha.github.io/rahul-guha-public/post/first-post/</link>
+      <pubDate>Thu, 09 Sep 2021 19:33:42 -0500</pubDate>
+      
+      <guid>https://rahulguha.github.io/rahul-guha-public/post/first-post/</guid>
+      
+        <description>This is a test post</description>
+      
+    </item>
+    
     <item>
       <title>Series Part 2</title>
       <link>https://rahulguha.github.io/rahul-guha-public/post/series-part-2/</link>
