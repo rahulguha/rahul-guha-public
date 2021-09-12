@@ -8,6 +8,17 @@
     <language>en</language><atom:link href="https://rahulguha.github.io/rahul-guha-public/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
+      <link>https://rahulguha.github.io/rahul-guha-public/tech/</link>
+      <pubDate>Sun, 12 Sep 2021 13:50:53 -0500</pubDate>
+      
+      <guid>https://rahulguha.github.io/rahul-guha-public/tech/</guid>
+      
+        <description>This is test </description>
+      
+    </item>
+    
+    <item>
+      <title>Posts</title>
       <link>https://rahulguha.github.io/rahul-guha-public/post/</link>
       <pubDate>Thu, 09 Sep 2021 20:37:07 -0500</pubDate>
       

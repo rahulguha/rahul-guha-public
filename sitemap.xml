@@ -3,7 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://rahulguha.github.io/rahul-guha-public/</loc>
-    <lastmod>2021-09-09T20:37:07-05:00</lastmod>
+    <lastmod>2021-09-12T13:50:53-05:00</lastmod>
+  </url><url>
+    <loc>https://rahulguha.github.io/rahul-guha-public/tech/</loc>
+    <lastmod>2021-09-12T13:50:53-05:00</lastmod>
+  </url><url>
+    <loc>https://rahulguha.github.io/rahul-guha-public/tech/resume/</loc>
+    <lastmod>2021-09-12T13:50:53-05:00</lastmod>
+  </url><url>
+    <loc>https://rahulguha.github.io/rahul-guha-public/tech/static-site-generator/</loc>
+    <lastmod>2021-09-10T18:29:27-05:00</lastmod>
   </url><url>
     <loc>https://rahulguha.github.io/rahul-guha-public/post/</loc>
     <lastmod>2021-09-09T20:37:07-05:00</lastmod>
